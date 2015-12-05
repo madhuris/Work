@@ -1,2 +1,2 @@
-# Work
-Work Experience during Undergraduate studies
+# Reference Links
+References to publications and projects completed during undergraduate studies
