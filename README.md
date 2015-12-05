@@ -1,2 +1,2 @@
 # Work
-Work Experience at Undergrad
+Work Experience during Undergraduate studies
