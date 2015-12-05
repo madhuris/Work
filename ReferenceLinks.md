@@ -8,7 +8,7 @@ References to publications and projects completed during undergraduate studies
 <b>URL</b>: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6305962&isnumber=6305918
 <br/> 
   </li>
-  <li>Poster presentation at Grace Hopper Celebration for Women in Computing (2012)</li>
+  <li>Educational Computing for the Visually Impaired in India : Poster presentation at Grace Hopper Celebration for Women in Computing (2012)<br/><b>Poster</b>: https://github.com/madhuris/Work/blob/master/Poster%20at%20GHC%20India%202012.pdf</li>
   <li>Parallelizing Applications using OpenCL – Parallelising computer vision applications.<br/> Project Guide : Prof R.Govindrajan, Chairman SERC Department, IISc Bangalore. July 2011<br/><b>Repository</b> : https://github.com/madhuris/HIgh-Performance-Computing-IISc </li>
   <li>Artificial Intelligence in Anti-Virus Technology, Bachelor’s thesis – Heuristic scanning of computer viruses based on prototypes and clustering. <br/> Project Guide : Mr K. Vinay Kumar, Associate Professor, Department of CSE NITK<br/><b>Repository</b> : https://github.com/madhuris/ML-Malware-Detection </li>
 </ol>
